@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 13 14:43:37 2021
-
-@author: user
-"""
 '''
 10
 0 11 22 33 55 66 77 99 88 44
@@ -36,15 +30,4 @@ for i in score:
         break
     if i == score[-1] :
         print('worst case')
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
-    
     
