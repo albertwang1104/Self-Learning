@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Mar 13 14:43:37 2021
-
-@author: user
-"""
 '''
 10
 0 11 22 33 55 66 77 99 88 44
@@ -13,7 +7,6 @@ Created on Sat Mar 13 14:43:37 2021
 
 2
 73 65
-
 '''
 a = int(input())
 score = list(map(int, input().split()))
@@ -36,3 +29,5 @@ for i in score:
         break
     if i == score[-1] :
         print('worst case')
+
+        
