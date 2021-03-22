@@ -1,5 +1,3 @@
-
-
 '''
 3 2 3
 1, 1
@@ -37,3 +35,5 @@ for i in list2:
     for j in reversed(i):
         print(j, end = ' ')
     print()    
+    
+    
