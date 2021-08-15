@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Dec 26 14:20:28 2020
-
-@author: user
-"""
-
 ans = []
 for i in range(int(input())):
     e, f, c = map(int, input().split(' ') )
