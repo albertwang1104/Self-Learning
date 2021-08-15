@@ -1,3 +1,0 @@
-# Self-Learning
-
-APCS practicing
